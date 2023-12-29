@@ -1,0 +1,7 @@
+#ignore output
+
+/out
+
+#ignore .idea
+
+.idea/
